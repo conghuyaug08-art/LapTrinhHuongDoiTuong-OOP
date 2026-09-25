@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37502.11 d17.14
+VisualStudioVersion = 17.14.37502.11
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT01", "TL_BT01\TL_BT01.csproj", "{B22C81F5-1594-44EE-94CD-FB1D3D0633A4}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT03", "TL_BT03\TL_BT03.csproj", "{B58F984E-9DC4-47AB-BCCF-C85BCEC2FC32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT04", "TL_BT04\TL_BT04.csproj", "{BF8B4755-A633-4D1B-B0CF-51A23F958438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT05", "TL_BT05\TL_BT05.csproj", "{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BF8B4755-A633-4D1B-B0CF-51A23F958438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8B4755-A633-4D1B-B0CF-51A23F958438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8B4755-A633-4D1B-B0CF-51A23F958438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
