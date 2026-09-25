@@ -1,0 +1,7 @@
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\bin\Debug\TL_BT03.exe.config
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\bin\Debug\TL_BT03.exe
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\bin\Debug\TL_BT03.pdb
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\obj\Debug\TL_BT03.csproj.AssemblyReference.cache
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\obj\Debug\TL_BT03.csproj.CoreCompileInputs.cache
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\obj\Debug\TL_BT03.exe
+C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT03\obj\Debug\TL_BT03.pdb
