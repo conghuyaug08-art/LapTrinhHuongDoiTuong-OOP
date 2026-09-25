@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}|TL_BT05\\TL_BT05.csproj|c:\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\bai 1\\bai01\\tl_bt05\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}|TL_BT05\\TL_BT05.csproj|solutionrelative:tl_bt05\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}|TL_BT06\\TL_BT06.csproj|c:\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\bai 1\\bai01\\tl_bt06\\nuocgiaikhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}|TL_BT06\\TL_BT06.csproj|solutionrelative:tl_bt06\\nuocgiaikhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF8B4755-A633-4D1B-B0CF-51A23F958438}|TL_BT04\\TL_BT04.csproj|c:\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\bai 1\\bai01\\tl_bt04\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF8B4755-A633-4D1B-B0CF-51A23F958438}|TL_BT04\\TL_BT04.csproj|solutionrelative:tl_bt04\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}|TL_BT05\\TL_BT05.csproj|c:\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\bai 1\\bai01\\tl_bt05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B4A62A-EC31-4379-BFAA-93E1FB34B3A9}|TL_BT05\\TL_BT05.csproj|solutionrelative:tl_bt05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}|TL_BT06\\TL_BT06.csproj|c:\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\bai 1\\bai01\\tl_bt06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}|TL_BT06\\TL_BT06.csproj|solutionrelative:tl_bt06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HoaDon.cs",
-              "DocumentMoniker": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT04\\HoaDon.cs",
-              "RelativeDocumentMoniker": "TL_BT04\\HoaDon.cs",
-              "ToolTip": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT04\\HoaDon.cs",
-              "RelativeToolTip": "TL_BT04\\HoaDon.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAA1wJYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:38:00.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KhoaHoc.cs",
-              "DocumentMoniker": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT05\\KhoaHoc.cs",
-              "RelativeDocumentMoniker": "TL_BT05\\KhoaHoc.cs",
-              "ToolTip": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT05\\KhoaHoc.cs",
-              "RelativeToolTip": "TL_BT05\\KhoaHoc.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAA7wKoAAAAAAAAAAAAAAA==",
+              "Title": "NuocGiaiKhat.cs",
+              "DocumentMoniker": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT06\\NuocGiaiKhat.cs",
+              "RelativeDocumentMoniker": "TL_BT06\\NuocGiaiKhat.cs",
+              "ToolTip": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT06\\NuocGiaiKhat.cs",
+              "RelativeToolTip": "TL_BT06\\NuocGiaiKhat.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T16:52:01.844Z",
+              "WhenOpened": "2026-09-25T17:50:15.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT05\\Program.cs",
-              "RelativeDocumentMoniker": "TL_BT05\\Program.cs",
-              "ToolTip": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT05\\Program.cs",
-              "RelativeToolTip": "TL_BT05\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAABAwA0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT06\\Program.cs",
+              "RelativeDocumentMoniker": "TL_BT06\\Program.cs",
+              "ToolTip": "C:\\Th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Bai 1\\BAI01\\TL_BT06\\Program.cs",
+              "RelativeToolTip": "TL_BT06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T16:44:26.292Z",
+              "WhenOpened": "2026-09-25T17:49:54.461Z",
               "EditorCaption": ""
             }
           ]
