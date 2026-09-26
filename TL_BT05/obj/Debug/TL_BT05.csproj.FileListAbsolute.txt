@@ -1,8 +1,0 @@
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\bin\Debug\TL_BT05.exe.config
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\bin\Debug\TL_BT05.exe
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\bin\Debug\TL_BT05.pdb
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\obj\Debug\TL_BT05.csproj.AssemblyReference.cache
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\obj\Debug\TL_BT05.csproj.CoreCompileInputs.cache
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\obj\Debug\TL_BT05.exe
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\obj\Debug\TL_BT05.pdb
-C:\Thực hành lập trình hướng đối tượng\Bai 1\BAI01\TL_BT05\obj\Debug\TL_BT05.exe.config
