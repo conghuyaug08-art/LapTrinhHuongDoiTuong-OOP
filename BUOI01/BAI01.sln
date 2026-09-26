@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT05", "TL_BT05\TL_BT05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT06", "TL_BT06\TL_BT06.csproj", "{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TL_BT07", "TL_BT07\TL_BT07.csproj", "{835113E5-577E-4EE6-8BDF-4A53C9608AE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D89966B-0CE2-4EF9-A31E-3B6C3FE5830C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835113E5-577E-4EE6-8BDF-4A53C9608AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835113E5-577E-4EE6-8BDF-4A53C9608AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835113E5-577E-4EE6-8BDF-4A53C9608AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835113E5-577E-4EE6-8BDF-4A53C9608AE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
