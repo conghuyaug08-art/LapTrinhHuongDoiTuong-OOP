@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hoadon>
+	<mahd>001</mahd>
+	<tenkh>Nguyen Van A</tenkh>
+	<ctbhs>
+		<ctbh>
+			<masp>SP001</masp>
+			<tensp>San pham A</tensp>
+			<gia>100000</gia>
+			<soluong>2</soluong>
+		</ctbh>
+		
+		<ctbh>
+			<masp>SP002</masp>
+			<tensp>San pham B</tensp>
+			<gia>150000</gia>
+			<soluong>1</soluong>
+		</ctbh>
+		
+		<ctbh>
+			<masp>SP003</masp>
+			<tensp>San pham C</tensp>
+			<gia>200000</gia>
+			<soluong>3</soluong>
+		</ctbh>
+	</ctbhs>
+</hoadon>
