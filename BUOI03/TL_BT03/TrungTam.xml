@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrungTam>
+	<ThiSinh Sbd ="001">
+		<TenTS>Nguyen Van A</TenTS>
+		<NamSinh>01-01-2000</NamSinh>
+		<DiemLT>8.5</DiemLT>
+		<DiemTH1>9.0</DiemTH1>
+		<DiemTH2>8.0</DiemTH2>
+	</ThiSinh>
+	
+	<ThiSinh Sbd ="002">
+		<TenTS>Tran Thi B</TenTS>
+		<NamSinh>15-05-2001</NamSinh>
+		<DiemLT>7.0</DiemLT>
+		<DiemTH1>8.5</DiemTH1>
+		<DiemTH2>7.5</DiemTH2>
+	</ThiSinh>
+	
+	<ThiSinh Sbd ="003">
+		<TenTS>Le Van C</TenTS>
+		<NamSinh>20-10-1999</NamSinh>
+		<DiemLT>9.0</DiemLT>
+		<DiemTH1>8.0</DiemTH1>
+		<DiemTH2>9.5</DiemTH2>
+	</ThiSinh>
+	
+	<ThiSinh Sbd ="004">
+		<TenTS>Pham Thi D</TenTS>
+		<NamSinh>05-03-2002</NamSinh>
+		<DiemLT>6.5</DiemLT>
+		<DiemTH1>7.0</DiemTH1>
+		<DiemTH2>6.0</DiemTH2>
+	</ThiSinh>
+</TrungTam>
