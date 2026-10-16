@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cuahang>
+	<hoadon loai="VIP">
+		<maso>HD01</maso>
+		<hoten>Nguyen Van A</hoten>
+		<ngaylap>2026-10-01</ngaylap>
+		<mahang>X01</mahang>
+		<tenhang>Xang RON 95</tenhang>
+		<dongia>25000</dongia>
+		<soluong>60</soluong>
+	</hoadon>
+
+	<hoadon loai="ThanThiet">
+		<maso>HD02</maso>
+		<hoten>Tran Van B</hoten>
+		<ngaylap>2026-10-02</ngaylap>
+		<mahang>X02</mahang>
+		<tenhang>Xang E5</tenhang>
+		<dongia>22000</dongia>
+		<soluong>40</soluong>
+	</hoadon>
+
+	<hoadon loai="VangLai">
+		<maso>HD03</maso>
+		<ngaylap>2026-10-03</ngaylap>
+		<mahang>X01</mahang>
+		<tenhang>Xang RON 95</tenhang>
+		<dongia>25000</dongia>
+		<soluong>50</soluong>
+	</hoadon>
+
+	<hoadon loai="VIP">
+		<maso>HD04</maso>
+		<hoten>Le Van C</hoten>
+		<ngaylap>2026-10-04</ngaylap>
+		<mahang>X02</mahang>
+		<tenhang>Xang E5</tenhang>
+		<dongia>22000</dongia>
+		<soluong>20</soluong>
+	</hoadon>
+</cuahang>
