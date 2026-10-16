@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+	<tencty>Cong ty ABC</tencty>
+	<dienthoai>0281234567</dienthoai>
+	<diachi>TP Ho Chi Minh</diachi>
+
+	<hoadon loai="1">
+		<makh>KH01</makh>
+		<tenkh>Nguyen Van An</tenkh>
+		<soluong>10</soluong>
+		<giaban>100000</giaban>
+		<khoangcach>5</khoangcach>
+	</hoadon>
+
+	<hoadon loai="1">
+		<makh>KH02</makh>
+		<tenkh>Tran Thi Binh</tenkh>
+		<soluong>4</soluong>
+		<giaban>150000</giaban>
+		<khoangcach>15</khoangcach>
+	</hoadon>
+
+	<hoadon loai="1">
+		<makh>KH03</makh>
+		<tenkh>Le Van Cuong</tenkh>
+		<soluong>20</soluong>
+		<giaban>120000</giaban>
+		<khoangcach>8</khoangcach>
+	</hoadon>
+
+	<hoadon loai="1">
+		<makh>KH04</makh>
+		<tenkh>Pham Thi Dung</tenkh>
+		<soluong>8</soluong>
+		<giaban>200000</giaban>
+		<khoangcach>12</khoangcach>
+	</hoadon>
+
+	<hoadon loai="2">
+		<makh>KH05</makh>
+		<tenkh>Hoang Van Em</tenkh>
+		<soluong>15</soluong>
+		<giaban>180000</giaban>
+		<thoigianhoptac>5</thoigianhoptac>
+	</hoadon>
+
+	<hoadon loai="2">
+		<makh>KH06</makh>
+		<tenkh>Vo Thi Giang</tenkh>
+		<soluong>25</soluong>
+		<giaban>90000</giaban>
+		<thoigianhoptac>8</thoigianhoptac>
+	</hoadon>
+
+	<hoadon loai="2">
+		<makh>KH07</makh>
+		<tenkh>Dang Van Hieu</tenkh>
+		<soluong>12</soluong>
+		<giaban>250000</giaban>
+		<thoigianhoptac>3</thoigianhoptac>
+	</hoadon>
+
+	<hoadon loai="3">
+		<makh>KH08</makh>
+		<tenkh>Cong ty Minh Phat</tenkh>
+		<soluong>30</soluong>
+		<giaban>200000</giaban>
+		<soluongnv>6000</soluongnv>
+	</hoadon>
+
+	<hoadon loai="3">
+		<makh>KH09</makh>
+		<tenkh>Cong ty An Khang</tenkh>
+		<soluong>50</soluong>
+		<giaban>160000</giaban>
+		<soluongnv>12000</soluongnv>
+	</hoadon>
+
+	<hoadon loai="3">
+		<makh>KH10</makh>
+		<tenkh>Cong ty Thanh Cong</tenkh>
+		<soluong>30</soluong>
+		<giaban>300000</giaban>
+		<soluongnv>8000</soluongnv>
+	</hoadon>
+</congty>

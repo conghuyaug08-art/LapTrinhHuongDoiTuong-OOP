@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nhanviens>
+    <nhanvien>
+        <maNV>NV01</maNV>
+        <tenNV>Nguyen Van A</tenNV>
+        <phongBan>Ke Toan</phongBan>
+        <chucVu>Lanh Dao</chucVu>
+        <hsLuong>3.5</hsLuong>
+        <thamNien>10</thamNien>
+        <soNgayLam>22</soNgayLam>
+    </nhanvien>
+    <nhanvien>
+        <maNV>NV02</maNV>
+        <tenNV>Tran Thi B</tenNV>
+        <phongBan>Nhan Su</phongBan>
+        <chucVu>Nhan Vien</chucVu>
+        <hsLuong>2.5</hsLuong>
+        <thamNien>5</thamNien>
+        <soNgayLam>22</soNgayLam>
+    </nhanvien>
+    <nhanvien>
+        <maNV>NV03</maNV>
+        <tenNV>Le Van C</tenNV>
+        <phongBan>Ky Thuat</phongBan>
+        <chucVu>Nhan Vien</chucVu>
+        <hsLuong>3.0</hsLuong>
+        <thamNien>7</thamNien>
+        <soNgayLam>20</soNgayLam>
+    </nhanvien>
+    <nhanvien>
+        <maNV>NV04</maNV>
+        <tenNV>Pham Thi D</tenNV>
+        <phongBan>Kinh Doanh</phongBan>
+        <chucVu>Nhan Vien</chucVu>
+        <hsLuong>2.8</hsLuong>
+        <thamNien>3</thamNien>
+        <soNgayLam>18</soNgayLam>
+    </nhanvien>
+    <nhanvien>
+        <maNV>NV05</maNV>
+        <tenNV>Hoang Van E</tenNV>
+        <phongBan>Hanh Chinh</phongBan>
+        <chucVu>Lanh Dao</chucVu>
+        <hsLuong>4.0</hsLuong>
+        <thamNien>12</thamNien>
+        <soNgayLam>22</soNgayLam>
+    </nhanvien>
+</nhanviens>
